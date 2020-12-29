@@ -1,0 +1,6 @@
+/Users/rafael/Projects/RafsScientificCalculator/RafsScientificCalculator/bin/Debug/RafsScientificCalculator.exe
+/Users/rafael/Projects/RafsScientificCalculator/RafsScientificCalculator/bin/Debug/RafsScientificCalculator.pdb
+/Users/rafael/Projects/RafsScientificCalculator/RafsScientificCalculator/obj/Debug/RafsScientificCalculator.csprojAssemblyReference.cache
+/Users/rafael/Projects/RafsScientificCalculator/RafsScientificCalculator/obj/Debug/RafsScientificCalculator.csproj.CoreCompileInputs.cache
+/Users/rafael/Projects/RafsScientificCalculator/RafsScientificCalculator/obj/Debug/RafsScientificCalculator.exe
+/Users/rafael/Projects/RafsScientificCalculator/RafsScientificCalculator/obj/Debug/RafsScientificCalculator.pdb

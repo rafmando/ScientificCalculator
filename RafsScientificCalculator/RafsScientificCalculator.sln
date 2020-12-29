@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RafsScientificCalculator", "RafsScientificCalculator\RafsScientificCalculator.csproj", "{B0758D4E-60ED-459B-BF0A-3ADC1CEE68FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0758D4E-60ED-459B-BF0A-3ADC1CEE68FD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B0758D4E-60ED-459B-BF0A-3ADC1CEE68FD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B0758D4E-60ED-459B-BF0A-3ADC1CEE68FD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B0758D4E-60ED-459B-BF0A-3ADC1CEE68FD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23731732-7143-41E9-BAF8-CB2CBE400F11}
+	EndGlobalSection
+EndGlobal
